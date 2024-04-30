@@ -7,3 +7,5 @@ conflict-remote上で更新(pullでコンフリクト発生)
 rebase-practicveブランチで更新
 Rebaseコンフリクト用更新
 pull時のRebase用
+stash練習
+
